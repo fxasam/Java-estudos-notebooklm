@@ -282,3 +282,11 @@ A integração entre aplicações Java e bancos de dados é realizada principalm
 Aluno de Análise e Desenvolvimento de Sistemas – Estácio
 
 Projeto desenvolvido para o desafio prático da **DIO (Digital Innovation One)** utilizando o **NotebookLM** como ferramenta de apoio aos estudos.
+## 🔗 Acesso ao Caderno no NotebookLM
+
+O caderno temático desenvolvido para este projeto pode ser acessado pelo link abaixo:
+
+**NotebookLM:**  
+https://notebook.google.com/notebook/3cb0064b-5801-45b9-9c10-3ca6f181243f
+
+
